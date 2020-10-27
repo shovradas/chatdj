@@ -1,2 +1,2 @@
-# xchat
+# ChatDJ
 A basic chat application
